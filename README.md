@@ -6,20 +6,18 @@
 
 ### Programmer
 
-- 👨‍💻 I’m currently programming on Berghem-Smart Information Security with backend developer using Python and Javascript. 
+- I’m currently programming on Berghem-Smart Information Security with backend developer using Python and Javascript. 
 - I’m from Sorocaba,São Paulo - Brazil and I currently work remotely.
 - I have Computer Science and Data Science University, which can add to the field of development. With 5 years of experience in the area.
-- ⚙️ I’m data-(science/enginnering) enthusiast for 3 years!
+- I’m data-(science/enginnering) enthusiast for 3 years!
 - My areas of interest are many, although I'm mainly passionate about science of theoretical theory and artificial intelligence; Machine Learning is my main topic of study.
-- ⚡ Fun fact: Biohacker, nerd, and sometimes I play sports.
+- Fun fact: Biohacker, nerd, and sometimes I play sports.
 
 ***
 
-<br />
-
 ### Social Media
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://www.instagram.com/the_comitre/" alt="instagram" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
