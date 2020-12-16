@@ -4,28 +4,24 @@
 
 ### Ok, no problem If you don't know me. I'm Bruno Alves Comitre, nice to meet you.
 
-<br />
-
 ### Programmer
 
-```rust
+```
 fn main() {
 
-   - 👨‍💻 I’m currently programming on Berghem-Smart Information Security with backend developer using Python and Javascript. 
-   - ⚙️ I’m data-(science/enginnering) enthusiast for 3 years!
-   - ⚡ Fun fact: Biohacker, nerd, and sometimes I play sports.
-}
-```
+I’m currently programming on Berghem-Smart Information Security with  backend developer using Python and Javascript. 
 
-***
-
-<br />
-
-I am from Sorocaba,São Paulo - Brazil and I currently work remotely.
+I’m from Sorocaba,São Paulo - Brazil and I currently work remotely.
 
 I have Computer Science and Data Science University, which can add to the field of development. With 5 years of experience in the area.
 
+I’m data-(science/enginnering) enthusiast for 3 years!
+
 My areas of interest are many, although I'm mainly passionate about science of theoretical theory and artificial intelligence; Machine Learning is my main topic of study.
+
+- ⚡ Fun fact: Biohacker, nerd, and sometimes I play sports.
+}
+```
 
 <br />
 
