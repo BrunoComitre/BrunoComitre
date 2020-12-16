@@ -22,49 +22,45 @@ fn main() {
 
 ***
 
-<h2>Social Medias</h2>
+### Social Medias
 
-<center>
-<div style="float:left; width:33%">
-  <a href="https://www.instagram.com/the_comitre/" alt="instagram" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://img.shields.io/badge/-the_comitre-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="brunocomitre" width="120" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/the_comitre/" alt="instagram" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/-the_comitre-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="brunocomitre" width="120" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.facebook.com/brunoalvescomitre" alt="facebook" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/-Bruno Comitre-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="brunocomitre" width="120" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/brunocomitre/a" alt="linkedin" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="brunocomitre" height="25" width="120" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://medium.com/@brunocomitre" alt="medium" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@brunocomitre" alt="brunocomitre" height="25" width="120" />
+      </a>
+    </td>
+    <td>
+      <a href="https://sourcerer.io/brunocomitre" alt="sourcerer" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/sourcerer-start-brightgreen.svg?colorA=087c08" alt="brunocomitre" width="120" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:brunoalvesscomitre@gmail.com" alt="gmail" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="brunocomitre" height="25" width="120" />
+      </a>
+    </td>
 
-<div style="float:left; width:33%">
-  <a href="https://www.facebook.com/brunoalvescomitre" alt="facebook" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://img.shields.io/badge/-Bruno Comitre-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="brunocomitre" width="120" />
-  </a>
-</div>
-
-<div style="float:left; width:33%">
-  <a href="https://www.linkedin.com/in/brunocomitre/a" alt="linkedin" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="brunocomitre" height="25" width="120" />
-  </a>
-</div>
-</center>
-
-<br />
-
-<center>
-<div style="float:left; width:33%">
-  <a href="https://medium.com/@brunocomitre" alt="medium" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@brunocomitre" alt="brunocomitre" height="25" width="120" />
-  </a>
-</div>
-
-<div style="float:left; width:33%">
-  <a href="https://sourcerer.io/brunocomitre" alt="sourcerer" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://img.shields.io/badge/sourcerer-start-brightgreen.svg?colorA=087c08" alt="brunocomitre" width="120" />
-  </a>
-</div>
-
-<div style="float:left; width:33%">
-  <a href="mailto:brunoalvesscomitre@gmail.com" alt="gmail" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="brunocomitre" height="25" width="120" />
-  </a>
-</div>
-</center>
+  </tr>
+</table>
 
 ***
 
