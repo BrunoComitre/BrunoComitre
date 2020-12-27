@@ -15,7 +15,7 @@
 
 ***
 
-### Social Media
+### How to Reach me
 
 <table align="center">
   <tr>
@@ -53,6 +53,48 @@
     </td>
 
   </tr>
+</table>
+
+***
+
+### Languages and Tools
+
+<table align="center">
+  <tr>
+    <td>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </td>
+    <td>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <td>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+      </a>
+    <td>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    </td>
+    <td>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+    </td>
+    <td>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
+    </td>
+    <td>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
+    </td>
+    <td>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+    </td>
+    <td>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+    </td>
+    <td>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+    </td>
+    <td>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/>
+    </td>
+  </tr>
+  
 </table>
 
 ***
