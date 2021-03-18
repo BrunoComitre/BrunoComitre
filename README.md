@@ -102,8 +102,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoComitre&layout=compact&show_icons=true&theme=gruvbox" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=BrunoComitre&theme=gruvbox&count_private=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoComitre&hide=html&layout=compact&show_icons=true&theme=gruvbox" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=BrunoComitre&show_icons=true&theme=gruvbox&count_private=true" /></td>
     </tr>   
   </table>
 </center>
