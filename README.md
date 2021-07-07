@@ -20,38 +20,47 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://www.instagram.com/the_comitre/" alt="instagram" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img align="center" src="https://img.shields.io/badge/-the_comitre-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="brunocomitre" width="120" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.facebook.com/brunoalvescomitre" alt="facebook" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img align="center" src="https://img.shields.io/badge/-Bruno Comitre-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="brunocomitre" width="120" />
-      </a>
-    </td>
-    <td>
       <a href="https://www.linkedin.com/in/brunocomitre/" alt="linkedin" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="brunocomitre" height="25" width="120" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" height="20" width="120" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/the_comitre/" alt="instagram" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/the_comitre-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="brunocomitre" height="20" width="120" />
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@brunocomitre" alt="medium" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@brunocomitre" alt="brunocomitre" height="20" width="120" />
+      </a>
+    </td>
+    <td>
+      <a href="https://dev.to/thecomitre" alt="devto" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="brunocomitre" height="20" width="120" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://medium.com/@brunocomitre" alt="medium" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img align="center" src="https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@brunocomitre" alt="brunocomitre" height="25" width="120" />
+      <a href="https://pt.stackoverflow.com/users/246264/bruno-comitre?tab=profile" alt="stackoverflow" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="brunocomitre"  height="20" width="120" />
       </a>
     </td>
     <td>
       <a href="https://sourcerer.io/brunocomitre" alt="sourcerer" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img align="center" src="https://img.shields.io/badge/sourcerer-start-brightgreen.svg?colorA=087c08" alt="brunocomitre" width="120" />
+        <img align="center" src="https://img.shields.io/badge/sourcerer-start-brightgreen.svg?colorA=087c08" alt="brunocomitre" height="20" width="120" />
       </a>
     </td>
     <td>
-      <a href="mailto:brunoalvesscomitre@gmail.com" alt="gmail" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="brunocomitre" height="25" width="120" />
+      <a href="@TheComitre#4033" alt="discord" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" height="20" width="120" />
       </a>
     </td>
-
+    <td>
+      <a href="https://www.twitch.tv/thecomitre" alt="twitch" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="brunocomitre" height="20" width="120" />
+      </a>
+    </td>
   </tr>
 </table>
 
