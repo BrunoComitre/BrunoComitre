@@ -13,19 +13,15 @@ class Me:
         self.role = "Programmer + Geek"
         self.language_spoken = ["pt_BR", "en_US"]
         self.location = "Sorocaba,São Paulo - Brazil"
-        
-        self.website = "https://d0t0n10n.github.io/"
-        
+
         self.knowledge_base = [
             "AI",
-            "Crypto",
             "Database",
             "Web Site",
             "Web Apps",
             "Security",
             "Data Science",
-            "Computer Engireeng",
-            "Mobile Programming",
+            "Computer Science",
             "And ..."
         ]
         
@@ -36,12 +32,12 @@ class Me:
             """Hello my friend, thanks for dropping by!
             This is {nick_name}, I live in {location} and I currently work remotely. I am a {role}.
             I’m currently programming on Berghem-Smart Information Security with backend developer using Python and Javascript.
-            I have wide interests, but most of them are {knowledge_base}.
-            
-            I have Computer Science and Data Science University, which can add to the field of development. With 5 years of experience in the area.
-            I’m data-(science/enginnering) enthusiast for 3 years!
-            My areas of interest are many, although I'm mainly passionate about science of theoretical theory and artificial intelligence; Machine Learning is my main topic of study."""
-
+            I have Computer Science and Data Science University, which can add to the field of development.
+            With 5 years of experience in the area.
+            I’m data-(science/enginnering) enthusiast for 4 years!
+            My areas of interest are many, although I'm mainly passionate about science of theoretical theory and artificial intelligence;
+            Machine Learning is my main topic of study.
+            I have wide interests, but most of them are {knowledge_base}."""
         )
 
         print("Thanks for dropping by, hope you find some of my work interesting.")
