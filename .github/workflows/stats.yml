@@ -12,8 +12,6 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - uses: teoxoy/profile-readme-stats@v1
-      with:
         token: ${{ secrets.STATS_TOKEN }}
     - name: Update README.md
       run: |
