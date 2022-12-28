@@ -22,7 +22,7 @@ class Me:
             "Security",
             "Data Science",
             "Computer Science",
-            "And ..."
+            "And..."
         ]
         
         self.knowledge_base.insert(0, "Geek")
