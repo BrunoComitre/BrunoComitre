@@ -22,7 +22,7 @@ class Me:
             "Security",
             "Data Science",
             "Computer Science",
-            "And ..."
+            "And..."
         ]
         
         self.knowledge_base.insert(0, "Geek")
@@ -52,9 +52,6 @@ me.sayHi()
 
 <a href="https://www.linkedin.com/in/brunocomitre/">
   <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" />
-</a>
-<a href="https://www.instagram.com/the_comitre/">
-  <img height="20" src="https://img.shields.io/badge/the_comitre-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="brunocomitre" />
 </a>
 <a href="https://medium.com/@brunocomitre">
   <img height="20" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@brunocomitre" alt="brunocomitre" />
