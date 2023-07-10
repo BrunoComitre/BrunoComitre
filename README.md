@@ -65,18 +65,15 @@ me.sayHi()
 
 ***
 
-#### Things I more code with
+#### Things I use most
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS 3">
+  
+  And others by security like Emulators, OWASP, Burp...
 </p>
 
 ***
@@ -104,6 +101,11 @@ me.sayHi()
   <img src="https://img.shields.io/badge/Pycharm-1DCE8A?style=flat-square&logo=pycharm&logoColor=white" alt="Pycharm">
   <img src="https://img.shields.io/badge/Jenkins-C3382E?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/CouchDB-DC2428?style=flat-square&logo=couchdb&logoColor=white" alt="CouchDB">
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS 3">
+  <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia">
 </p>
 
 ***
