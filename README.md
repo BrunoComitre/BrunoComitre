@@ -62,6 +62,9 @@ me.sayHi()
 <a href="@TheComitre#4033">
   <img height="20" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" />
 </a>
+<a href="https://medium.com/@brunocomitre">
+  <img height="20" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@brunocomitre" alt="brunocomitre" />
+</a>
 
 ***
 
