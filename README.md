@@ -12,11 +12,14 @@ class Me:
         self.name = "Bruno"
         self.role = "Programmer + Geek"
         self.language_spoken = ["pt_BR", "en_US"]
-        self.location = "Sorocaba,São Paulo - Brazil"
+        self.location = "Sorocaba, São Paulo - Brazil"
 
         self.knowledge_base = [
             "NLP",
             "Database",
+            "Cybersecurity",
+            "Pentest",
+            "OWASP",
             "Web Site",
             "Web Apps",
             "Security",
@@ -53,23 +56,11 @@ me.sayHi()
 <a href="https://www.linkedin.com/in/brunocomitre/">
   <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" />
 </a>
-<a href="https://medium.com/@brunocomitre">
-  <img height="20" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@brunocomitre" alt="brunocomitre" />
-</a>
 <a href="https://pt.stackoverflow.com/users/246264/bruno-comitre?tab=profile">
   <img height="20" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="brunocomitre" />
 </a>
-<a href="https://dev.to/thecomitre">
-  <img height="20" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="brunocomitre" />
-</a>
 <a href="@TheComitre#4033">
   <img height="20" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" />
-</a>
-<a href="https://www.twitch.tv/thecomitre">
-  <img height="20" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="brunocomitre" />
-</a>
-<a href="https://sourcerer.io/brunocomitre">
-  <img height="20" src="https://img.shields.io/badge/sourcerer-087c08.svg?style=flat-square" alt="brunocomitre" />
 </a>
 
 ***
