@@ -56,9 +56,6 @@ me.sayHi()
 <a href="https://www.linkedin.com/in/brunocomitre/">
   <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" />
 </a>
-<a href="https://pt.stackoverflow.com/users/246264/bruno-comitre?tab=profile">
-  <img height="20" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="brunocomitre" />
-</a>
 <a href="@TheComitre#4033">
   <img height="20" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" />
 </a>
