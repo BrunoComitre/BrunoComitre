@@ -49,32 +49,33 @@ me = Me()
 me.sayHi()
 ```
 
-***
-
-#### How to Reach me
-
-<a href="https://www.linkedin.com/in/brunocomitre/">
-  <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" />
-</a>
-<a href="@TheComitre#4033">
-  <img height="20" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" />
-</a>
-<a href="https://dev.to/thecomitre">
-  <img height="20" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/thecomitre" alt="brunocomitre" />
-</a>
-
-***
-
-#### Things I use most
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  
-  And others by security like Emulators, OWASP, Burp...
-</p>
+  <table align="center">
+    <tr align="center">
+        <td>
+            <h3>How to Reach me</h3>
+            <br/>
+            <a href="https://www.linkedin.com/in/brunocomitre/">
+                <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" />
+            </a>
+            <a href="@TheComitre#4033">
+                <img height="20" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" />
+            </a>
+            <a href="https://dev.to/thecomitre">
+                <img height="20" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/thecomitre" alt="brunocomitre" />
+            </a>
+        </td>
+        <td>
+            <h3>Things I use most</h3>
+            <br/>
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+              <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+              <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+              <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+              <br/>
+              And others by security like Emulators, OWASP, Burp...
+        </td>
+    </tr> 
+  </table>
 
 ***
 
@@ -113,17 +114,12 @@ me.sayHi()
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoComitre&hide=html&layout=compact&show_icons=true&theme=gotham" alt="brunocomitre" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=BrunoComitre&show_icons=true&theme=gotham&count_private=true" alt="brunocomitre" /></td>
-    </tr>
-       <tr>
-        <td><img width="400px" height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=BrunoComitre&theme=gotham" /></td>
-        <td><img width="495px" height="200px" align="left" src="https://activity-graph.herokuapp.com/graph?username=brunocomitre&theme=react-dark&bg_color=20232a" /></td>
+        <td><img width="300px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=BrunoComitre&show_icons=true&theme=gotham&count_private=true" alt="brunocomitre" /></td>
+        <td><img width="300px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoComitre&hide=html&layout=compact&show_icons=true&theme=gotham" alt="brunocomitre" /></td>
+        <td><img width="300px" height="210px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=BrunoComitre&theme=gotham" /></td>
     </tr> 
   </table>
 </center>
-
-***
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="brunocomitre" />
