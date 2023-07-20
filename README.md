@@ -117,7 +117,7 @@ me.sayHi()
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=BrunoComitre&show_icons=true&theme=gotham&count_private=true" alt="brunocomitre" /></td>
     </tr>
        <tr>
-        <td><img width="400px" height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=brunocomitre&theme=dark" /></td>
+        <td><img width="400px" height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=BrunoComitre&theme=gotham" /></td>
         <td><img width="495px" height="200px" align="left" src="https://activity-graph.herokuapp.com/graph?username=brunocomitre&theme=react-dark&bg_color=20232a" /></td>
     </tr> 
   </table>
