@@ -10,7 +10,8 @@ class Me:
     def __init__(self):
         self.nick_name = "BrunoComitre"
         self.name = "Bruno"
-        self.role = "Programmer + Geek"
+        self.role = "Programmer + I Know La"
+        self.reach_me = "bruno-comitre@hotmail.com"
         self.language_spoken = ["pt_BR", "en_US"]
         self.location = "Sorocaba, São Paulo - Brazil"
 
@@ -29,6 +30,11 @@ class Me:
         ]
         
         self.knowledge_base.insert(0, "Geek")
+
+   def extras(self):
+        print("I'm currently working on: Infrastructure as a code and Python for Web development and Pentest Tools.")
+        print("I'm currently learning: Cybersecurity and Django Framework.")
+        print("I'm looking for: Remote Developer relations and Job/ Developer Community / Cyber Internships.")
         
     def sayHi(self):
         print(
@@ -47,6 +53,7 @@ class Me:
         
 me = Me()
 me.sayHi()
+me.extras()
 ```
 
   <table align="center">
