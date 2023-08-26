@@ -10,7 +10,7 @@ class Me:
     def __init__(self):
         self.nick_name = "BrunoComitre"
         self.name = "Bruno"
-        self.role = "Programmer + I Know La"
+        self.role = "Programmer + Pentester + Data Analitics + I Know La"
         self.reach_me = "bruno-comitre@hotmail.com"
         self.language_spoken = ["pt_BR", "en_US"]
         self.location = "Sorocaba, São Paulo - Brazil"
@@ -18,24 +18,66 @@ class Me:
         self.knowledge_base = [
             "NLP",
             "Database",
+            "NoSQL",
+            "Web Site",
+            "Web Apps",
+            "Data Science",
+            "Computer Science",
+            "Python",
+            "And..."
+        ]
+
+        self.pentesting_skills = [
+            "Web Application Penetration Testing",
+            "Network Penetration Testing",
+            "Active Directory Penetration Testing",
+            "Mobile Application Penetration Testing",
+            "API Penetration Testing",
+            "Thich Client Penetration Testing",
+            "Thin Client Penetration Testing",
+            "Azure Penetration Testing",
             "Cybersecurity",
             "Pentest",
             "OWASP",
-            "Web Site",
-            "Web Apps",
+            "NIST",
             "Security",
-            "Data Science",
-            "Computer Science",
             "And..."
         ]
-        
-        self.knowledge_base.insert(0, "Geek")
 
-   def extras(self):
+        self.other_skills = [
+            "Vulnerability Assessment",
+            "Ethical Hacking",
+            "Linux Administration",
+            "Networking",
+            "Code Review",
+            "Reverse Engineering",
+            "Malware Analysis",
+            "Security Operations",
+            "Digital Forensics",
+            "Incident Response",
+        ]  
+
+
+    def extras(self):
         print("I'm currently working on: Infrastructure as a code and Python for Web development and Pentest Tools.")
         print("I'm currently learning: Cybersecurity and Django Framework.")
         print("I'm looking for: Remote Developer relations and Job/ Developer Community / Cyber Internships.")
-        
+
+    def softwareAndToolKnowledge(self):
+        print("WEB APPLICATION: OWASP Top 10 / Burp Suite / SQLmap / Nikto / Dirb")
+        print("NETWORK: Nmap / Nessus / Metasploit / Linux PrivEsc / Windows PrivEsc")
+        print("THICK-THIN CLIENT: TCPview / Wireshark / Winspy / PEstudio")
+        print("API: OWASP Top 10 / SOAP / REST / Graph / Postman")
+        print("SCANNING: Nessus / Acuentix / Qualys / Netsparker")
+        print("MOBILE: OWASP Top 10 / Burpsuite / Frida")
+        print("OSINT: SpiderFoot / Maltego / Recon-ng")
+        print("VIRTUALIZATION: Virtual Box / VMware / Parallels")
+        print("MALWARE ANALYSIS: PEstudio / Fiddler / Wireshark / Ghidra / Remnux")
+        print("OPERATING SYSTEM: Windows / Mac / Linux (Ubuntu, Kali, Parrot, Suse)")
+        print("THREAT AND VULNERABILITY MANAGEMENT: Nessus / MITRE / Yara / ISAC / MISP")
+        print("SECURITY OPERATIONS AND MONITORING: Sysmon / Suricata / Splunk / OpenEDR")
+        print("INCIDENT RESPONSE AND FORENSICS: Volatility / Autospy")
+
     def sayHi(self):
         print(
             """Hello my friend, thanks for dropping by!
@@ -46,13 +88,15 @@ class Me:
             I'm data-(science/enginnering) enthusiast for 4 years!
             My areas of interest are many, although I'm mainly passionate about science of theoretical theory and artificial intelligence;
             Machine Learning is my main topic of study.
-            I have wide interests, but most of them are {knowledge_base}."""
+            I have wide interests, but most of them are {knowledge_base}.
+            And I study and work with {pentesting_skills}, and my last the {other_skills}."""
         )
 
         print("Thanks for dropping by, hope you find some of my work interesting.")
         
 me = Me()
 me.sayHi()
+me.softwareAndToolKnowledge()
 me.extras()
 ```
 
