@@ -35,7 +35,7 @@ class Me:
             "API Penetration Testing",
             "Thich Client Penetration Testing",
             "Thin Client Penetration Testing",
-            "Azure Penetration Testing",
+            "AWS Penetration Testing",
             "Cybersecurity",
             "Pentest",
             "OWASP",
