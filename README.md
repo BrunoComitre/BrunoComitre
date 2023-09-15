@@ -82,7 +82,7 @@ class Me:
         print(
             """Hello my friend, thanks for dropping by!
             This is {nick_name}, I live in {location} and I currently work remotely. I am a {role}.
-            I'm currently programming on Berghem-Smart Information Security with backend developer using Python and Javascript.
+            I'm currently work with Pentester in Bug Bunty Sites and programming with backend developer using Python and Javascript.
             I have Computer Science and Data Science University, which can add to the field of development.
             With 5 years of experience in the area.
             I'm data-(science/enginnering) enthusiast for 4 years!
