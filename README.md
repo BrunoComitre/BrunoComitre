@@ -158,23 +158,23 @@ me.extras()
   <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Nodejs-6DA55F?style=flat-square&logo=Node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/-Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch&logoColor=white" alt="ElasticSearch">
-  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
-  <img src="https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket&logoColor=white" alt="BitBucket">
+  <img src="https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src=https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="ElasticSearch">
+  <img src="https://img.shields.io/badge/-PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/-Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
+  <img src="https://img.shields.io/badge/-BitBucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" alt="BitBucket">
 </p>
 
 ***
