@@ -156,7 +156,8 @@ me.extras()
   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS 3">
   <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia">
   <img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Nodejs-6DA55F?style=flat-square&logo=Node.js&logoColor=white" alt="NodeJS">
@@ -164,7 +165,7 @@ me.extras()
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src=https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/-Redis-%23DD0031.svg?style=flat-square&logo=mongodb&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="ElasticSearch">
   <img src="https://img.shields.io/badge/-PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
