@@ -172,7 +172,6 @@ me.extras()
   <img src="https://img.shields.io/badge/-Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
-  <img src="https://img.shields.io/badge/-Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
   <img src="https://img.shields.io/badge/-BitBucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" alt="BitBucket">
