@@ -106,13 +106,13 @@ me.extras()
             <h3>How to Reach me</h3>
             <br/>
             <a href="https://www.linkedin.com/in/brunocomitre/">
-                <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" />
+                <img height="20" src="https://img.shields.io/badge/brunocomitre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" />
             </a>
             <a href="@TheComitre#4033">
-                <img height="20" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" />
+                <img height="20" src="https://img.shields.io/badge/brunocomitre-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" />
             </a>
             <a href="https://dev.to/thecomitre">
-                <img height="20" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/thecomitre" alt="brunocomitre" />
+                <img height="20" src="https://img.shields.io/badge/thecomitre-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/thecomitre" alt="brunocomitre" />
             </a>
         </td>
         <td>
@@ -158,23 +158,23 @@ me.extras()
   <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch&logoColor=white" alt="ElasticSearch">
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
+  <img src="https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket&logoColor=white" alt="BitBucket">
 </p>
 
 ***
