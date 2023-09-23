@@ -89,8 +89,7 @@ class Me:
             My areas of interest are many, although I'm mainly passionate about science of theoretical theory and artificial intelligence;
             Machine Learning is my main topic of study.
             I have wide interests, but most of them are {knowledge_base}.
-            And I study and work with {pentesting_skills}, and my last the {other_skills}."""
-        )
+            And I study and work with {pentesting_skills}, and my last the {other_skills}.""")
 
         print("Thanks for dropping by, hope you find some of my work interesting.")
         
