@@ -177,20 +177,3 @@ me.extras()
 </p>
 
 ***
-
-<center>
-  <table>
-    <tr>
-        <td><img width="300px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=BrunoComitre&show_icons=true&theme=gotham&count_private=true" alt="brunocomitre" /></td>
-        <td><img width="300px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoComitre&hide=html&layout=compact&show_icons=true&theme=gotham" alt="brunocomitre" /></td>
-        <td><img width="300px" height="210px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=BrunoComitre&theme=gotham" /></td>
-    </tr> 
-  </table>
-</center>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="brunocomitre" />
-  <img src="https://komarev.com/ghpvc/?username=BrunoComitre" alt="brunocomitre" />
-</p>
-
-***
