@@ -1,135 +1,25 @@
-# Hello World 👋
-
-#### Ok, no problem If you don't know me. Nice to meet you.
-
-```python
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
-
-class Me:
-    def __init__(self):
-        self.nick_name = "BrunoComitre"
-        self.name = "Bruno"
-        self.role = "Programmer + Pentester + Data Analitics + I Know La"
-        self.reach_me = "bruno-comitre@hotmail.com"
-        self.language_spoken = ["pt_BR", "en_US"]
-        self.location = "Sorocaba, São Paulo - Brazil"
-
-        self.knowledge_base = [
-            "NLP",
-            "Database",
-            "NoSQL",
-            "Web Site",
-            "Web Apps",
-            "Data Science",
-            "Computer Science",
-            "Python",
-            "And..."
-        ]
-
-        self.pentesting_skills = [
-            "Web Application Penetration Testing",
-            "Network Penetration Testing",
-            "Active Directory Penetration Testing",
-            "Mobile Application Penetration Testing",
-            "API Penetration Testing",
-            "Thich Client Penetration Testing",
-            "Thin Client Penetration Testing",
-            "AWS Penetration Testing",
-            "Cybersecurity",
-            "Pentest",
-            "OWASP",
-            "NIST",
-            "Security",
-            "And..."
-        ]
-
-        self.other_skills = [
-            "Vulnerability Assessment",
-            "Ethical Hacking",
-            "Linux Administration",
-            "Networking",
-            "Code Review",
-            "Reverse Engineering",
-            "Malware Analysis",
-            "Security Operations",
-            "Digital Forensics",
-            "Incident Response",
-        ]  
-
-
-    def extras(self):
-        print("I'm currently working on: Infrastructure as a code and Python for Web development and Pentest Tools.")
-        print("I'm currently learning: Cybersecurity and Django Framework.")
-        print("I'm looking for: Remote Developer relations and Job/ Developer Community / Cyber Internships.")
-
-    def softwareAndToolKnowledge(self):
-        print("WEB APPLICATION: OWASP Top 10 / Burp Suite / SQLmap / Nikto / Dirb")
-        print("NETWORK: Nmap / Nessus / Metasploit / Linux PrivEsc / Windows PrivEsc")
-        print("THICK-THIN CLIENT: TCPview / Wireshark / Winspy / PEstudio")
-        print("API: OWASP Top 10 / SOAP / REST / Graph / Postman")
-        print("SCANNING: Nessus / Acuentix / Qualys / Netsparker")
-        print("MOBILE: OWASP Top 10 / Burpsuite / Frida")
-        print("OSINT: SpiderFoot / Maltego / Recon-ng")
-        print("VIRTUALIZATION: Virtual Box / VMware / Parallels")
-        print("MALWARE ANALYSIS: PEstudio / Fiddler / Wireshark / Ghidra / Remnux")
-        print("OPERATING SYSTEM: Windows / Mac / Linux (Ubuntu, Kali, Parrot, Suse)")
-        print("THREAT AND VULNERABILITY MANAGEMENT: Nessus / MITRE / Yara / ISAC / MISP")
-        print("SECURITY OPERATIONS AND MONITORING: Sysmon / Suricata / Splunk / OpenEDR")
-        print("INCIDENT RESPONSE AND FORENSICS: Volatility / Autospy")
-
-    def sayHi(self):
-        print(
-            """Hello my friend, thanks for dropping by!
-            This is {nick_name}, I live in {location} and I currently work remotely. I am a {role}.
-            I'm currently work with Pentester in Bug Bunty Sites and programming with backend developer using Python and Javascript.
-            I have Computer Science and Data Science University, which can add to the field of development.
-            With 5 years of experience in the area.
-            I'm data-(science/enginnering) enthusiast for 4 years!
-            My areas of interest are many, although I'm mainly passionate about science of theoretical theory and artificial intelligence;
-            Machine Learning is my main topic of study.
-            I have wide interests, but most of them are {knowledge_base}.
-            And I study and work with {pentesting_skills}, and my last the {other_skills}.""")
-
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-        
-me = Me()
-me.sayHi()
-me.softwareAndToolKnowledge()
-me.extras()
+```
+$ [HELLO WORLD] : Ok, no problem If you don't know me. Nice to meet you
 ```
 
-  <table align="center">
-    <tr align="center">
-        <td>
-            <h3>How to Reach me</h3>
-            <br/>
-            <a href="https://www.linkedin.com/in/brunocomitre/">
-                <img height="20" src="https://img.shields.io/badge/brunocomitre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" />
-            </a>
-            <a href="@TheComitre#4033">
-                <img height="20" src="https://img.shields.io/badge/brunocomitre-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" />
-            </a>
-            <a href="https://dev.to/thecomitre">
-                <img height="20" src="https://img.shields.io/badge/thecomitre-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/thecomitre" alt="brunocomitre" />
-            </a>
-        </td>
-        <td>
-            <h3>Things I use most</h3>
-            <br/>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-              <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-              <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-              <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-              <br/>
-              And others by security like Emulators, OWASP, Burp...
-        </td>
-    </tr> 
-  </table>
+<h2>About Me</h2>
 
-***
+<ul>
+  <li>💻 I’m currently working with AppSec Engineer at PagBank 🚀!</li>
+  <li>📚 I’m currently learning <b>Cybersecurity, OWASP and Django Framework</b> </li>
+  <li>👨‍💻 Technical Skills: I use most: Python/Django, Linux, Git, and others by security like Emulators, OWASP, Burp, and more... </li>
+  <li>🌱 Programmer + Pentester + Data Analitics + AppSec Security Researcher + Bug Bounty Hunter + I Know La </li>
+  <li>🌎 Language Spoken = ["pt_BR", "en_US"] </li>
+  <li>⭐ I'm currently work with Pentester in Bug Bunty Sites and programming with backend developer using Python and Javascript </li>
+  <li>❤️ My areas of interest are many, although I'm mainly passionate about science of theoretical theory and artificial intelligence and NLP </li>
+  <li>🧙 Machine Learning Security and Climate Changing is my main topic of study </li>
+  <li>⚡ I'm looking for: Remote Developer relations and Job/ Developer Community / Cyber Internships </li>
+  <li>🔭 How to Reach me <a href="https://www.linkedin.com/in/brunocomitre/"> <img height="20" src="https://img.shields.io/badge/brunocomitre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" /> </a> <a href="@TheComitre#4033"> <img height="20" src="https://img.shields.io/badge/brunocomitre-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" /> </a> <a href="https://dev.to/thecomitre"> <img height="20" src="https://img.shields.io/badge/thecomitre-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/thecomitre" alt="brunocomitre" /> </li>
+</ul>
 
-#### Knowledge already used technologies, languages and tools
+</br>
+
+<h2>Knowledge already used Technologies, Languages and Tools</h2>
 
 <p>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX"> 
@@ -142,7 +32,7 @@ me.extras()
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Open CV">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Postgre SQL">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="GNU Bash">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
@@ -154,6 +44,7 @@ me.extras()
   <img src="https://img.shields.io/badge/CouchDB-DC2428?style=flat-square&logo=couchdb&logoColor=white" alt="CouchDB">
   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS 3">
+  <img src="https://img.shields.io/badge/-BitBucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" alt="BitBucket">
   <img src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
@@ -169,11 +60,19 @@ me.extras()
   <img src="https://img.shields.io/badge/-PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/-Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache">
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
   <img src="https://img.shields.io/badge/-GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
-  <img src="https://img.shields.io/badge/-BitBucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" alt="BitBucket">
 </p>
 
-***
+---
