@@ -10,8 +10,8 @@ $ [HELLO WORLD] : Ok, no problem If you don't know me. Nice to meet you
   <li>👨‍💻 Technical Skills: I use most: Python/Django, Linux, Git, and others by security like Emulators, OWASP, Burp, and more... </li>
   <li>🌱 Programmer + Pentester + Data Analitics + AppSec Security Researcher + Bug Bounty Hunter + I Know La </li>
   <li>🌎 Language Spoken = ["pt_BR", "en_US"] </li>
-  <li>⭐ I'm currently work with Pentester in Bug Bunty Sites and programming with backend developer using Python and Javascript </li>
-  <li>❤️ My areas of interest are many, although I'm mainly passionate about science of theoretical theory and artificial intelligence and NLP </li>
+  <li>⭐ I'm currently work with Pentester in Bug Bounty Sites and programming with backend developer using Python and Javascript </li>
+  <li>❤️ My areas of  passionate about science of matematichal theoretical theory and artificial intelligence and NLP </li>
   <li>🧙 Machine Learning Security and Climate Changing is my main topic of study </li>
   <li>⚡ I'm looking for: Remote Developer relations and Job/ Developer Community / Cyber Internships </li>
   <li>🔭 How to Reach me <a href="https://www.linkedin.com/in/brunocomitre/"> <img height="20" src="https://img.shields.io/badge/brunocomitre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brunocomitre" /> </a> <a href="@TheComitre#4033"> <img height="20" src="https://img.shields.io/badge/brunocomitre-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="brunocomitre" /> </a> <a href="https://dev.to/thecomitre"> <img height="20" src="https://img.shields.io/badge/thecomitre-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/thecomitre" alt="brunocomitre" /> </li>
